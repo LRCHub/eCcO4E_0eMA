@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "余熱",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-26T05:25:46.018631Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "余熱 (feat. 初音ミク)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_余熱_(feat._初音ミク)_MIMI.txt"
+    }
+  ]
+}
